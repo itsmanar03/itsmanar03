@@ -1,7 +1,6 @@
 <h1 align="center" style="color: #FF69B4;">𝐇𝐢, 𝐈’𝐦 𝐌𝐚𝐧𝐚𝐫 𝐀𝐥𝐢 💕</h1>
 <p align="center">Data Science & Machine Learning enthusiast | AI lover | Always exploring the world of tech 🌟</p>
 
-## 💻 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=apache&logoColor=black" alt="Machine Learning" />
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## 📫 Contact Me
+## 📫 Contact Me?
 <p align="center">
   <a href="mailto:eng.manar3li@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/manar-ali-270a33372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
