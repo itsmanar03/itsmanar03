@@ -1,10 +1,4 @@
-<h1 align="center">👋 Hi, I’m Manar Ali!</h1>
-
-<p align="center">
-💖 Connect with me on my social media and professional profiles 💖
-</p>
-
----
+<h1 align="center">Hi, I’m Manar Ali 💕..!</h1>
 
 ## 📫 Contact Me
 - **Email:** eng.manar3li@gmail.com  
