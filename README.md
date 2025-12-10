@@ -1,4 +1,4 @@
-<h1 align="center" color=#ffffff >Hi, I’m Manar Ali 💕..!</h1>
+<h1 align="center" color=#pink >Hi, I’m Manar Ali 💕..!</h1>
 
 ## 📫 Contact Me
 - **Email:** eng.manar3li@gmail.com  
