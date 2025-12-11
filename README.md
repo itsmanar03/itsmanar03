@@ -6,12 +6,9 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=apache&logoColor=black" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FFB300?style=for-the-badge" alt="Data Visualization" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 ## 📫 Contact Me..?
