@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=apache&logoColor=black" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FFB300?style=for-the-badge" alt="Data Visualization" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
