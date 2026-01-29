@@ -1,7 +1,7 @@
 # 𝐇𝐢, 𝐈’𝐦 𝐌𝐚𝐧𝐚𝐫 𝐀𝐥𝐢 💕
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZqZ3R4bmV4eGZ3bmZqZ3R4bmV4eGZ3bmZqZ3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpG9DMaSn/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZqZ3R4bmV4eGZ3bmZqZ3R4bmV4eGZ3bmZqZ3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpG9DMaSn/giphy.gif](https://github.com/itsmanar03/itsmanar03/issues/1#issue-3871646996" width="300">
 </div>
 
 
