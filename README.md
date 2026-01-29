@@ -5,11 +5,8 @@
 
 ![Passion Badge](https://img.shields.io/badge/AI-is%20not%20just%20my%20career%2C%20it's%20my%20passion-FF69B4?style=flat-square)
 
-<i>🌸 Exploring data, building models, and loving every byte of it! 🌸</i>
-
 </div>
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -33,7 +30,6 @@
 <img src="https://img.shields.io/badge/Naive_Bayes-2C3E50?style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Decision_Tree-27AE60?style=for-the-badge" />
 
----
 
 ## 📊 GitHub Stats
 
@@ -43,7 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanar03&layout=compact&theme=soft-pink&hide_border=true" alt="Top Languages" />
 </p>
 
----
 
 ## 📫 Connect with me
 
@@ -56,9 +51,5 @@
   <a href="https://www.instagram.com/itsmanar.03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
 
-✨ **Tips for future improvement** (Optional Section):
-- Add sample projects or notebooks with demos  
-- Include badges for certifications or courses  
-- Add “Blog / Articles” section if you write about ML & DS  
+<i>🌸 Exploring data, building models, and loving every byte of it! 🌸</i>
