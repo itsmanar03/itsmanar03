@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Data Science & Machine Learning Engineer | AI Enthusiast | Tech Explorer</b> 🌟
+  <b>Data Science & Machine Learning Engineer</b> 🌟
 </p>
 
 <p align="center">
@@ -39,8 +39,8 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmanar03&show_icons=true&theme=dracula&font_family=Inter&text_color=FF69B4" alt="Manar's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanar03&layout=compact&theme=dracula&font_family=Inter&text_color=FF69B4" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmanar03&show_icons=true&theme=rose&font_family=Inter" alt="Manar's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanar03&layout=compact&theme=rose&font_family=Inter" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -50,6 +50,9 @@
   <a href="mailto:eng.manar3li@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manaralihammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/itsmanar03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <br>
+  <a href="https://www.facebook.com/share/1CpQihT6MD"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itsmanar.03?igsh=MW1lb3NjeDN2dGt5Yw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
