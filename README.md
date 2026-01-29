@@ -5,7 +5,7 @@
 
 ![Passion Badge](https://img.shields.io/badge/AI-is%20not%20just%20my%20career%2C%20it's%20my%20passion-FF69B4?style=flat-square)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U4Znd1cm93bm9vbmh6YjZhcXN6OHp6Z3Z5amJ6bm93bm9vbmh6YiZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/S8f6mHVSYdK02NptU2/giphy.gif" width="300">
+<img src="https://raw.githubusercontent.com/platane/platane/master/scroller.gif" width="400">
 
 ---
 
@@ -35,34 +35,4 @@
 ### 🤖 Machine Learning Models
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Regression-3776AB?style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Classification-27AE60?style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Clustering-8E44AD?style=for-the-badge" height="35" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmanar03&show_icons=true&theme=vivid-gradient&hide_border=true" alt="Manar's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanar03&layout=compact&theme=vivid-gradient&hide_border=true" alt="Manar's Languages" />
-</p>
-
----
-
-## 📫 Let's Connect!
-<p align="center">
-  <a href="mailto:eng.manar3li@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manaralihammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/1CpQihT6MD"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itsmanar.03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>🌸 Exploring data, building models, and loving every byte of it! 🌸</i>
-</p>
-
-</div>
+  <img src="
