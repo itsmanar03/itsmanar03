@@ -1,4 +1,4 @@
-# 𝐇𝐢, 𝐈’𝐦 𝐌𝐚𝐧𝐚𝐫 𝐀𝐥𝐢 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
+# 𝐇𝐢, 𝐈’𝐦 𝐌𝐚𝐧𝐚𝐫 𝐀𝐥𝐢 💕>
 **Data Science & Machine Learning Engineer** 🌟
 
 <div align="center">
