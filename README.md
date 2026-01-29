@@ -35,4 +35,25 @@
 ### 🤖 Machine Learning Models
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" />
-  <img src="
+  <img src="https://img.shields.io/badge/Regression-3776AB?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Classification-27AE60?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Clustering-8E44AD?style=for-the-badge" height="35" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:eng.manar3li@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manaralihammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1CpQihT6MD"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itsmanar.03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>🌸 Exploring data, building models, and loving every byte of it! 🌸</i>
+</p>
+
+</div>
