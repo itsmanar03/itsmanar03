@@ -31,7 +31,7 @@
 <a href="https://www.facebook.com/share/1CpQihT6MD"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/itsmanar.03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
----
+
 
 <div align="center">
   <i>🌸 Exploring data, building models, and loving every byte of it! 🌸</i>
