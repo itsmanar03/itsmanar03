@@ -1,11 +1,11 @@
 <div align="center">
 
-# 𝐇𝐢, 𝐈’𝐦 𝐌𝐚𝐧𝐚𝐫 𝐀𝐥𝐢 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZGNmYjZlM2Y0ZDRmYjllYjY0ZDRmYjllYjY0ZDRmYjllYjY0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw36yE19atCBxDnn19/giphy.gif" width="35">
+# 𝐇𝐢, 𝐈’𝐦 𝐌𝐚𝐧𝐚𝐫 𝐀𝐥𝐢 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35">
 **Data Science & Machine Learning Engineer** 🌟
 
 ![Passion Badge](https://img.shields.io/badge/AI-is%20not%20just%20my%20career%2C%20it's%20my%20passion-FF69B4?style=flat-square)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZGNmYjZlM2Y0ZDRmYjllYjY0ZDRmYjllYjY0ZDRmYjllYjY0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZqZ3R4bmV4eGZ3bmZqZ3R4bmV4eGZ3bmZqZ3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpG9DMaSn/giphy.gif" width="300">
 
 ---
 
@@ -44,8 +44,9 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmanar03&show_icons=true&theme=soft-pink&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanar03&layout=compact&theme=soft-pink&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmanar03&show_icons=true&theme=rose_pine&hide_border=true" alt="Manar's GitHub stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanar03&layout=compact&theme=rose_pine&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
