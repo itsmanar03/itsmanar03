@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Seaborn-13a8a8?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FFB300?style=for-the-badge" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Linear_Regression-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Linear Regression" />
+  <img src="https://img.shields.io/badge/Polynomial_Regression-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Polynomial Regression" />
+  <img src="https://img.shields.io/badge/Logistic_Regression-009688?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Logistic Regression" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=apache&logoColor=black" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI" />
 </p>
